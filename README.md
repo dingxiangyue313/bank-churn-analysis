@@ -19,6 +19,7 @@ AI-powered system for predicting customer churn and generating retention strateg
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## 📈 Results
 - ROC-AUC: 0.85+
