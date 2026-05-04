@@ -30,5 +30,5 @@ streamlit run app.py
 - Optimize retention strategy
 - Improve customer lifetime value
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 - Python, Pandas, Scikit-learn, Streamlit
