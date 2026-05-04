@@ -19,3 +19,15 @@ AI-powered system for predicting customer churn and generating retention strateg
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📈 Results
+- ROC-AUC: 0.85+
+- SHAP analysis shows key drivers of churn
+
+## 💼 Business Impact
+- Identify high-risk users
+- Optimize retention strategy
+- Improve customer lifetime value
+
+🛠 Tech Stack
+- Python, Pandas, Scikit-learn, Streamlit
