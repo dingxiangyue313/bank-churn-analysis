@@ -16,10 +16,9 @@ AI-powered system for predicting customer churn and generating retention strateg
 - Explainability: SHAP
 
 ## 📊 Demo
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+![Dashboard](outputs/overview_dashboard.png)
+![RFM Analysis](outputs/rfm_analysis.png)
+![SHAP Summary](outputs/shap_summary.png)
 
 ## 📈 Results
 - ROC-AUC: 0.85+
